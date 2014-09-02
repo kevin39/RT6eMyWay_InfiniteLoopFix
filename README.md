@@ -10,3 +10,15 @@ into into the GPS memory. After importing these files, the GPS is now unable to 
 Bug fix : 
 - The script remove all temp file locked but doesn't fix the problem. You'll can update you RT6 with a USB-key prepared on a Mac
 or cleaned.
+
+
+How to run
+=========================
+
+* USE A PC
+* Copy all files on a cleaned USB drive
+* Start your engine
+* Put the USB drive
+* Run the script
+* Wait few secs
+* Enjoy!
