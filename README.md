@@ -5,11 +5,10 @@ A fix for RT6/eMyWAY navigation system. This fix will help you to fix the "Infin
 
 Bug causes :
 - Mac OS system add a lot of hidden files starting with a dot. Originally, RT6/eMyWay system doesn't ignore these file but import them 
-into into the GPS memory. After importing these files, the GPS is now unable to update its database.
+into into the GPS memory. After importing these files, the GPS is to update anymore its database.
 
 Bug fix : 
-- The script remove all temp file locked but doesn't fix the problem. You'll can update you RT6 with a USB-key prepared on a Mac
-or cleaned.
+- The script remove all temp file  but doesn't fix the problem itself. You'll can update you RT6 with a clean USB-key.
 
 
 How to run
