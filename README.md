@@ -1,7 +1,7 @@
 RT6eMyWay_InfiniteLoopFix
 =========================
 
-A fix for RT6/eMyWAY in car navigation system. This fix willl help you to solde the "Infinite loop" bug about updating POI.
+A fix for RT6/eMyWAY navigation system. This fix will help you to fix the "Infinite loop" bug when updating POI.
 
 Bug causes :
 - Mac OS system add a lot of hidden files starting with a dot. Originally, RT6/eMyWay system doesn't ignore these file but import them 
